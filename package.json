@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "eslint-plugin-react": "^7.37.2",
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
